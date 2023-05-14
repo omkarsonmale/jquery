@@ -1,0 +1,12 @@
+1> We have to add some cdn links for jquery mobiles in html file
+Link Of Web site:-https://jquerymobile.com/
+
+Copy-and-Paste snippet for jQuery CDN hosted files:-
+<link rel="stylesheet" href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css" />
+<script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+<script src="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+
+For adding navbar
+go to demo
+go to version
+and choose
